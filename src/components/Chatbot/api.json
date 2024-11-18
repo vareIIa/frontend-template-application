@@ -1,0 +1,47 @@
+[
+    {
+      "name": "Scratch",
+      "link": "https://apps.projetodesenvolve.online/learning/course/course-v1:ProjetoDesenvolve+Scratch1+01/home",
+      "contexto": "Scratch é uma linguagem de programação visual destinada principalmente a iniciantes. Ela permite criar jogos, animações e histórias interativas usando blocos de código, promovendo a criatividade e o aprendizado de lógica de programação de forma divertida."
+    },
+    {
+      "name": "No Code",
+      "link": "https://apps.projetodesenvolve.online/learning/course/course-v1:ProjetoDesenvolve+NoCode1+01/home",
+      "contexto": "No Code é uma abordagem que permite a criação de aplicativos e soluções digitais sem a necessidade de programação tradicional. Usando plataformas visuais, os usuários podem desenvolver sites, automações e aplicativos, facilitando o acesso à tecnologia."
+    },
+    {
+      "name": "Linux",
+      "link": "https://apps.projetodesenvolve.online/learning/course/course-v1:ProjetoDesenvolve+Linux1+01/home",
+      "contexto": "Linux é um sistema operacional de código aberto amplamente utilizado em servidores, desktops e dispositivos móveis. Conhecido por sua segurança e flexibilidade, ele permite personalização e oferece diversas distribuições para atender a diferentes necessidades."
+    },
+    {
+      "name": "Introdução a Web",
+      "link": "https://apps.projetodesenvolve.online/learning/course/course-v1:ProjetoDesenvolve+IntroWeb+01/home",
+      "contexto": "HTML (HyperText Markup Language) e CSS (Cascading Style Sheets) são utilizados para criar e estilizar páginas web. HTML estrutura o conteúdo, enquanto o CSS define a aparência, permitindo desenvolver sites visualmente atraentes e responsivos."
+    },
+    {
+      "name": "POO",
+      "link": "https://apps.projetodesenvolve.online/learning/course/course-v1:ProjetoDesenvolve+POO1+01/home",
+      "contexto": "A Programação Orientada a Objetos (POO) é usada para organizar software em objetos que representam dados e métodos. Essa abordagem facilita o desenvolvimento, tornando o código mais modular, reutilizável e fácil de manter, além de permitir uma melhor modelagem do mundo real no software."
+    },
+    {
+      "name": "JavaScript",
+      "link": "https://apps.projetodesenvolve.online/learning/course/course-v1:ProjetoDesenvolve+JS1+01/home",
+      "contexto": "JavaScript é uma linguagem de programação essencial para o desenvolvimento web. Usada para criar interatividade em sites, manipular elementos HTML e CSS, além de ser fundamental em aplicações móveis e no backend com Node.js."
+    },
+    {
+      "name": "Banco de Dados",
+      "link": "https://apps.projetodesenvolve.online/learning/course/course-v1:ProjetoDesenvolve+BD1+01/home",
+      "contexto": "Apresentação curso"
+    },
+    {
+      "name": "Python I",
+      "link": "https://apps.projetodesenvolve.online/learning/course/course-v1:Projeto_Desenvolve+PY001+2024_S2/home",
+      "contexto": "Python é uma das linguagens de programação mais populares e flexíveis do mundo, conhecida por sua simplicidade e legibilidade, o que a torna uma escolha excelente para desenvolvedores de todos os níveis, desde iniciantes até especialistas. Criada por Guido van Rossum e lançada em 1991, Python foi projetada para enfatizar a legibilidade do código, permitindo que os programadores se concentrem mais na resolução de problemas e menos nas complexidades da linguagem em si. Sua sintaxe simples, aliada a uma comunidade ativa e uma vasta gama de bibliotecas e frameworks, faz de Python uma ferramenta poderosa para diversas áreas e tipos de aplicações."
+    },
+    {
+      "name": "Python II",
+      "link": "https://apps.projetodesenvolve.online/learning/course/course-v1:ProjetoDesenvolve+Python2+2024/home",
+      "contexto": "Python é amplamente utilizado para desenvolvimento web, automação, análise de dados, aprendizado de máquina e ciência de dados. Sua sintaxe clara e bibliotecas poderosas tornam a linguagem ideal para criar aplicações e resolver problemas complexos."
+    }
+  ]
