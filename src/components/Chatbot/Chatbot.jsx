@@ -13,10 +13,10 @@ import {
 } from '@mui/material';
 
 const App = () => {
-  const [messages, setMessages] = useState<string[]>([]);
-  const [input, setInput] = useState<string>('');
-  const [loading, setLoading] = useState<boolean>(false);
-  const [drawerOpen, setDrawerOpen] = useState<boolean>(true); // Controla a barra lateral
+  const [messages, setMessages] = useState([]);
+  const [input, setInput] = useState('');
+  const [loading, setLoading] = useState(false);
+  const [drawerOpen, setDrawerOpen] = useState(true); // Controla a barra lateral
 
   const handleSendMessage = async () => {
     if (!input.trim()) {
@@ -77,17 +77,17 @@ const App = () => {
         <List>
           <ListItem disablePadding>
             <ListItemButton>
-              <ListItemText primary="Home" />
+              <a href='https://apps.projetodesenvolve.online/learner-dashboard/'><ListItemText primary="Inicio" /></a>
             </ListItemButton>
           </ListItem>
           <ListItem disablePadding>
             <ListItemButton>
-              <ListItemText primary="Chatbot" />
+              <a href='/'><ListItemText primary="Chatbot" /></a>
             </ListItemButton>
           </ListItem>
           <ListItem disablePadding>
             <ListItemButton>
-              <ListItemText primary="Configurações" />
+              <a href='https://apps.projetodesenvolve.online/account/'><ListItemText primary="Configurações da conta" /></a>
             </ListItemButton>
           </ListItem>
         </List>
@@ -105,7 +105,7 @@ const App = () => {
         }}
       >
         <Typography variant="h5" gutterBottom>
-          Chatbot
+          PD Coach
         </Typography>
 
         <Box
@@ -132,7 +132,7 @@ const App = () => {
           <TextField
             value={input}
             onChange={(e) => setInput(e.target.value)}
-            label="Digite uma mensagem..."
+            label="Tire uma dúvida com o Coach..."
             variant="outlined"
             fullWidth
             sx={{ marginRight: 2 }}
